@@ -7,7 +7,7 @@ from selenium import webdriver
 
 from time import sleep
 
-driver = webdriver.Chrome(executable_path=r'C:\Users\Zane\source\repos\drivers\chromedriver86.exe')
+driver = webdriver.Chrome(executable_path=r'C:\Users\....\source\repos\drivers\chromedriver86.exe')
 driver.get("https://website")
 
 sleep(5)
